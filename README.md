@@ -2,7 +2,6 @@
 
 A VSCode extension that analyzes code complexity and predicts potential bugs in real-time across multiple programming languages.
 
-![Extension Demo](images/demo.png)
 
 ## Features
 
@@ -18,12 +17,6 @@ A VSCode extension that analyzes code complexity and predicts potential bugs in 
 - **Prepared for ML Integration**: Structure in place for future machine learning-based predictions
 
 ## Installation
-
-### From Marketplace
-1. Open VSCode
-2. Go to Extensions (Ctrl+Shift+X)
-3. Search for "Real-Time Complexity & Bug Predictor"
-4. Click Install
 
 ### From Source
 1. Clone this repository
@@ -80,7 +73,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/real-time-complexity-bug-predictor](https://github.com/yourusername/real-time-complexity-bug-predictor)
+Ping  me at zixriz2@gmail.com
